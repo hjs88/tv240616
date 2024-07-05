@@ -33,7 +33,7 @@
 汕头新闻综合,http://sslsz.oceaniwork.com:4022/udp/239.77.1.130:5146
 汕头经济生活,http://sslsz.oceaniwork.com:4022/udp/239.77.1.131:5146
 汕头文旅体育,http://sslsz.oceaniwork.com:4022/udp/239.77.1.132:5146
-央视卫视
+央视卫视,#genre#
 CCTV1,http://router.bingyu.in:40000/rtp/239.253.252.77:8000
 CCTV2,http://router.bingyu.in:40000/rtp/239.253.252.234:8000
 CCTV3,http://router.bingyu.in:40000/rtp/239.253.252.4:8000
